@@ -1,5 +1,5 @@
-#Cosmo Food Catch
-##Game by Foxy Green Games
+#	**Cosmo Food Catch**
+##	**Game by Foxy Green Games**
 
 This is small game for android devices, built in Unity with C#.
 
